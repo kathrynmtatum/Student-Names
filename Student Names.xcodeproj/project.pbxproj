@@ -13,6 +13,7 @@
 		52C665352416E08700465B3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52C665332416E08700465B3D /* Main.storyboard */; };
 		52C665372416E08A00465B3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C665362416E08A00465B3D /* Assets.xcassets */; };
 		52C6653A2416E08A00465B3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52C665382416E08A00465B3D /* LaunchScreen.storyboard */; };
+		52C665622416EE6800465B3D /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C665612416EE6800465B3D /* StudentDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		52C665362416E08A00465B3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52C665392416E08A00465B3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52C6653B2416E08A00465B3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52C665612416EE6800465B3D /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				52C6652D2416E08700465B3D /* AppDelegate.swift */,
 				52C6652F2416E08700465B3D /* SceneDelegate.swift */,
 				52C665312416E08700465B3D /* ViewController.swift */,
+				52C665612416EE6800465B3D /* StudentDetailViewController.swift */,
 				52C665332416E08700465B3D /* Main.storyboard */,
 				52C665362416E08A00465B3D /* Assets.xcassets */,
 				52C665382416E08A00465B3D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				52C665322416E08700465B3D /* ViewController.swift in Sources */,
 				52C6652E2416E08700465B3D /* AppDelegate.swift in Sources */,
 				52C665302416E08700465B3D /* SceneDelegate.swift in Sources */,
+				52C665622416EE6800465B3D /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
